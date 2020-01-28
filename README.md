@@ -14,7 +14,7 @@ pip3 install pyTelegramBotAPI
 
 # run
 <pre><code>
-git clone https://github.com/mr0sploit/mrlocation <br />
+git clone https://github.com/Null-hack/mrlocation.git <br />
 cd mrlocation <br />
 python3 mrlocation.py
 </code></pre>
